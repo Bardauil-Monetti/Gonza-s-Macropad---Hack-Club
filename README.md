@@ -1,6 +1,6 @@
 Gonza's Macropad:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa354a8a-763d-41b4-8a83-218bba73a110" />
+![WhatsApp Image 2026-01-17 at 19 11 06](https://github.com/user-attachments/assets/904df1ad-0f65-4175-9460-982476ec6b06)
 
 This is my first proyect for hack club, I hope you like it.
 
@@ -21,3 +21,4 @@ Bom:
 6x Blank DSA Keycaps
 4x M3x16 Bolt
 4x M3 Heatset
+
