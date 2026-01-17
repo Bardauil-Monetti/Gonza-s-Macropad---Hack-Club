@@ -12,13 +12,14 @@ A simple macropad for gaming, all 6 keycaps and the encoder have diferent charac
 ![WhatsApp Image 2026-01-17 at 19 16 35](https://github.com/user-attachments/assets/e1202f0b-a754-4a27-bf2c-25fc63cd3a82)
 ![WhatsApp Image 2026-01-17 at 19 23 04](https://github.com/user-attachments/assets/a07f2a65-acc6-485f-a0ff-b5b52ebf7973)
 
-Bom:
+## BOM
 
--6x Cherry MX Switches
--6x SK6812 MINI Leds
--1x XIAO RP2040
--6x Blank DSA Keycaps
--4x M3x16 Bolt
--4x M3 Heatset
+- 6× Cherry MX Switches
+- 6× SK6812 MINI LEDs
+- 1× XIAO RP2040
+- 6× Blank DSA Keycaps
+- 4× M3×16 Bolts
+- 4× M3 Heatset Inserts
+
 
 
